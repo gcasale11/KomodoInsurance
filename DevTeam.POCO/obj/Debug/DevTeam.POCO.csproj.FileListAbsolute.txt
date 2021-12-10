@@ -1,0 +1,9 @@
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\KomodoInsurance\KomodoInsuranceDeveloperTeamManagement\DevTeam.POCO\bin\Debug\DevTeam.POCO.dll
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\KomodoInsurance\KomodoInsuranceDeveloperTeamManagement\DevTeam.POCO\bin\Debug\DevTeam.POCO.pdb
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\KomodoInsurance\KomodoInsuranceDeveloperTeamManagement\DevTeam.POCO\bin\Debug\Developer.POCO.dll
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\KomodoInsurance\KomodoInsuranceDeveloperTeamManagement\DevTeam.POCO\bin\Debug\Developer.POCO.pdb
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\KomodoInsurance\KomodoInsuranceDeveloperTeamManagement\DevTeam.POCO\obj\Debug\DevTeam.POCO.csproj.AssemblyReference.cache
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\KomodoInsurance\KomodoInsuranceDeveloperTeamManagement\DevTeam.POCO\obj\Debug\DevTeam.POCO.csproj.CoreCompileInputs.cache
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\KomodoInsurance\KomodoInsuranceDeveloperTeamManagement\DevTeam.POCO\obj\Debug\DevTeam.POCO.csproj.CopyComplete
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\KomodoInsurance\KomodoInsuranceDeveloperTeamManagement\DevTeam.POCO\obj\Debug\DevTeam.POCO.dll
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\KomodoInsurance\KomodoInsuranceDeveloperTeamManagement\DevTeam.POCO\obj\Debug\DevTeam.POCO.pdb
